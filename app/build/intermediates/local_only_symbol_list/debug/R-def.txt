@@ -1,0 +1,26 @@
+R_DEF: Internal format may change without notice
+local
+color black
+color ic_banner_background
+color ic_launcher_background
+color white
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+drawable image
+id button
+id edit_text
+id qr_code
+id root_layout
+id textView
+id textView2
+layout activity_main
+mipmap ic_banner
+mipmap ic_launcher
+mipmap ic_launcher_foreground
+mipmap ic_launcher_round
+string app_name
+string link
+style Base.Theme.QRCodeGenerator
+style Theme.QRCodeGenerator
+xml backup_rules
+xml data_extraction_rules
