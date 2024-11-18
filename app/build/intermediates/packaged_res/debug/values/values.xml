@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="ic_banner_background">#FFFFFF</color>
+    <color name="ic_launcher_background">#FFFFFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <string name="app_name">QR Code Generator</string>
+    <string name="link">
+         <a href="https://www.github.com/LikhithSP">Github</a> . <a href="https://in.linkedin.com/in/likhithsp">LinkedIn</a>
+    </string>
+    <style name="Base.Theme.QRCodeGenerator" parent="Theme.Material3.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorOnPrimary">@color/white</item> 
+    </style>
+    <style name="Theme.QRCodeGenerator" parent="Base.Theme.QRCodeGenerator"/>
+</resources>
