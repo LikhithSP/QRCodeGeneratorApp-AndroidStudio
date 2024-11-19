@@ -16,9 +16,7 @@ qr-code-generator-app/
 ├── app/                        # Main application directory
 │   ├── src/                    # Source code
 │   └── res/                    # Resources (layouts, drawables, etc.)
-├── build/                      # Build outputs
-├── libs/                       # Libraries and dependencies
-├── tests/                      # Unit and UI tests
+├──   APK/                      # Build outputs
 ├── .gitignore                  # List of files to ignore in git
 ├── LICENSE                     # License file
 ├── README.md                   # Project description
