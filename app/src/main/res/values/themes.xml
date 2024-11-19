@@ -1,0 +1,13 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.QRCodeGenerator" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your dark theme here. -->
+        <item name="colorPrimary">@color/black</item>
+        <item name="android:statusBarColor">@color/black</item>
+        <item name="android:windowLightStatusBar">false</item>
+        <item name="colorOnPrimary">@color/white</item> <!-- To ensure text/icons contrast well -->
+    </style>
+
+    <!-- QR Code Generator Theme -->
+    <style name="Theme.QRCodeGenerator" parent="Base.Theme.QRCodeGenerator" />
+</resources>
