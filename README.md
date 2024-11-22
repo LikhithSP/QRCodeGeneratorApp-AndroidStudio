@@ -9,6 +9,7 @@
 
 ## Table of Contents:
 
+```plaintext
 qr-code-generator-app/
 ├── .github/                    # GitHub-specific files (actions, issue templates)
 │   ├── workflows/
@@ -21,6 +22,7 @@ qr-code-generator-app/
 ├── LICENSE                     # License file
 ├── README.md                   # Project description
 └── build.gradle                # Gradle build file
+```
 
 ## Installation 
 
