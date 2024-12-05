@@ -24,33 +24,55 @@ qr-code-generator-app/
 └── build.gradle                # Gradle build file
 ```
 
-## Installation 
+## Installation 🚀
 
-1. Click on the Release section in this repo
+1. Click on the Releases section in this repository
 
-2. Download the APP through .apk extentions or zip file
+2. Download the App through .apk extentions or zip file
 
 3. Install app through any apk downloader like google drive or files
-or a native android app installer
+or using your native android app installer
 
-4. Enjoy your free qr generations !!
+4. Enjoy your free QR Code generations !!
 
-## Usage 
 
-1. Enter your URL or Text into the input box
-   >> URL - takes you directly to the website 
-   >> Text - takes you to the google search of your Text
+## Usage ✨
 
-## Contribution
+Enter your URL or Text into the input box
+   >URL - takes you directly to the website
 
-Feel Free to contribute to my project by forking my repo and giving me pull request
+   >Text - takes you to the google search of your Text
+
+
+## Contributing 🤝
+
+1. Fork the repository.
+2. Create your feature branch:
+   ```bash
+   git checkout -b feature/AmazingFeature
+   ```
+3. Commit your changes:
+   ```bash
+   git commit -m 'Add some AmazingFeature'
+   ```
+4. Push to the branch:
+   ```bash
+   git push origin feature/AmazingFeature
+   ```
+5. Open a pull request.
 
 ## License
 
-This project is licensed ither apache 2.0
+This project is licensed under the Apache License, Version 2.0
 
-## Connect with me 
-
-LINKEDIN
-GitHub
+<h2>🤝 Connect With Me</h2>
+<p>
+  <a href="https://www.linkedin.com/in/likhithsp" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=xuvGCOXi8Wyg&format=png&color=000000" alt="LinkedIn" class="icon">
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.github.com/LikhithSP" target="_blank">
+    <img src="https://img.icons8.com/?size=60&id=46565&format=png&color=000000" alt="GitHub" class="icon">
+  </a>
+</p>
 
