@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="https://github.com/LikhithSP/QRCodeGeneratorApp-AndroidStudio/blob/main/APK/Screenshots/image00.jpg" height="600" width="300"> <img src="https://github.com/LikhithSP/QRCodeGeneratorApp-AndroidStudio/blob/main/APK/Screenshots/image01.jpg" height="600" width="300">\
+<img src="https://github.com/LikhithSP/QRCodeGeneratorApp-AndroidStudio/blob/main/APK/Screenshots/image02.jpg" height="600" width="300"> <img src="https://github.com/LikhithSP/QRCodeGeneratorApp-AndroidStudio/blob/main/APK/Screenshots/image01.jpg" height="600" width="300">\
 <p><strong>This is an beginner friendly app for generating qr code for the users which is build in Android Studio</strong></p>
 </div>
 
